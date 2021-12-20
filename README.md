@@ -1,6 +1,10 @@
-### Hi there 👋
-### 🔭 I’m currently working on @adadijital
-### 🌱 I’m currently learning Vue.js
+### Hi there 👋, my name is Onur
+#### I am Front-End Developer
+- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on @adadijital. 
+
+Skills: VUE JS  / JS / HTML / CSS
+
 <!--
 **Onurlulardan/Onurlulardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
