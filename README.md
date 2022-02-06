@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js
 - 🔭 I’m currently working on @adadijital. 
 
-Skills: VUE JS  / JS / HTML / CSS
+Skills: VUE JS  / REACT.JS / JS / HTML / CSS
 
 <!--
 **Onurlulardan/Onurlulardan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
