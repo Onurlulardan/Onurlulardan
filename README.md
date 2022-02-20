@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Onur
 #### I am Front-End Developer
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js and React.js
 - 🔭 I’m currently working on @adadijital. 
 
 Skills: VUE JS  / REACT.JS / JS / HTML / CSS
