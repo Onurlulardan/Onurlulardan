@@ -1,26 +1,28 @@
-# Onur Altuntaş | Software Developer
+# Hello! 👋 I'm Onur Altuntaş
 
-Hello! I’m Onur Altuntaş, a software developer specializing in building scalable systems and database-driven applications. I am passionate about creating high-performance, user-friendly solutions.
+I'm a software developer focused on building scalable systems and database-driven applications. I enjoy creating high-performance, user-friendly solutions and am passionate about solving complex problems with modern technologies.
 
-## 🏆 Featured Projects
-- **[Forgecrud](https://forgecrud.io/):** An innovative platform that generates APIs and admin panels based on database diagrams, streamlining development workflows.
-- **Corporate Web Solutions:** High-performance, SEO-focused projects built with React and Vite for professional enterprises.
-- **Automation Systems:** Developed a solution for processing over 7,000 images daily in airport cleaning automation, enhancing operational efficiency.
+## 🚀 Featured Projects
+- **[nextjstemplate](https://github.com/Onurlulardan/nextjstemplate)**  
+  A Next.js-based template with user and role management features.  
+  _Tech: Next.js, Prisma, React_
 
-## 🌐 Portfolio & Contact
-- **LinkedIn:** [linkedin.com/in/onur-altuntas99](https://linkedin.com/in/onur-altuntas99)  
-- **GitHub:** [github.com/Onurlulardan](https://github.com/Onurlulardan)  
-- **Portfolio:** [altuntasonur.com](https://altuntasonur.com)  
+- **[forgecrud](https://github.com/Onurlulardan/forgecrud)**  
+  An innovative platform that generates APIs and admin panels from database diagrams.  
+  _Speeds up development workflows._
 
-## 🛠️ Technical Expertise
-- **Backend:** .NET Core, Node.js, Express.js  
-- **Frontend:** React, Next.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Tools:** Docker, Git, Swagger, Postman  
+- **[Corporate-Web-Solutions](https://github.com/Onurlulardan/Corporate-Web-Solutions)**  
+  SEO-focused corporate web solutions built with React and Vite for high performance.  
+  _Tech: React, Vite_
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onurlulardan&show_icons=true&theme=default)  
+## 🌟 About Me
+- **Location:** Sakarya, Türkiye
+- **Website:** [altuntasonur.com](https://altuntasonur.com/en)
+- **Interests:** Web development, automation, open-source projects
+- **Contact:** [Twitter](https://twitter.com/altuntasonur99) | [LinkedIn](https://linkedin.com/in/onur-altuntas99)
+
+## 💡 What I Do
+I write code to solve complex problems and deliver innovative solutions. Feel free to reach out for collaboration or questions!
 
 ---
-
-I thrive on solving complex problems and delivering innovative solutions. Feel free to reach out via the links above for collaboration or inquiries.
+*Contributions welcome! Check out my projects and share your thoughts.*
