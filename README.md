@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-I write code to solve complex problems and deliver innovative solutions.
+I edit text files for a living.
 
 ### 🔧 Technologies
 
