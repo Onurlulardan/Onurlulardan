@@ -1,28 +1,37 @@
-# Hello! 👋 I'm Onur Altuntaş
+# Onur Altuntaş
 
-I'm a software developer focused on building scalable systems and database-driven applications. I enjoy creating high-performance, user-friendly solutions and am passionate about solving complex problems with modern technologies.
+## Full Stack Developer
 
-## 🚀 Featured Projects
-- **[nextjstemplate](https://github.com/Onurlulardan/nextjstemplate)**  
-  A Next.js-based template with user and role management features.  
-  _Tech: Next.js, Prisma, React_
+I write code to solve complex problems and deliver innovative solutions.
 
-- **[forgecrud](https://github.com/Onurlulardan/forgecrud)**  
-  An innovative platform that generates APIs and admin panels from database diagrams.  
-  _Speeds up development workflows._
+### 🔧 Technologies
 
-- **[Corporate-Web-Solutions](https://github.com/Onurlulardan/Corporate-Web-Solutions)**  
-  SEO-focused corporate web solutions built with React and Vite for high performance.  
-  _Tech: React, Vite_
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Backend:** Node.js, .NET Core, C#
+- **UI Frameworks:** Ant Design, Chakra UI
+- **Database:** Prisma, SQL
 
-## 🌟 About Me
-- **Location:** Sakarya, Türkiye
-- **Website:** [altuntasonur.com](https://altuntasonur.com/en)
-- **Interests:** Web development, automation, open-source projects
-- **Contact:** [Twitter](https://twitter.com/altuntasonur99) | [LinkedIn](https://linkedin.com/in/onur-altuntas99)
+### 📦 Projects
 
-## 💡 What I Do
-I write code to solve complex problems and deliver innovative solutions. Feel free to reach out for collaboration or questions!
+#### [NextJS Template](https://github.com/Onurlulardan/nextjstemplate)
+Next.js-based template with user and role management features.
+`Next.js` `Prisma` `React` `Ant Design`
 
----
-*Contributions welcome! Check out my projects and share your thoughts.*
+#### [ForgeCRUD](https://github.com/Onurlulardan/forgecrudio)
+Platform that generates APIs and admin panels from database diagrams.
+`React Flow` `Next.js` `Prisma`
+
+#### [CleanFlow](https://github.com/Onurlulardan/cleanFlow)
+Cleaning automation backend developed with .NET Core.
+`.NET Core` `Dapper` `C#`
+
+#### [Custom Admin](https://github.com/Onurlulardan/customadmin)
+Admin panel developed with Chakra UI.
+`React` `Chakra UI` `JavaScript`
+
+### 📫 Contact
+
+- 🌐 [altuntasonur.com](https://altuntasonur.com/en)
+- 💼 [LinkedIn](https://linkedin.com/in/onur-altuntas99)
+- 🐦 [Twitter](https://twitter.com/altuntasonur99)
+- ✉️ [altuntasonur99@gmail.com](mailto:altuntasonur99@gmail.com)
