@@ -1,5 +1,3 @@
-# Onur Altuntaş
-
 ## Full Stack Developer
 
 I edit text files for a living.
