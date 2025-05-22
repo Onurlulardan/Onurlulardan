@@ -23,9 +23,6 @@ Platform that generates APIs and admin panels from database diagrams.
 Cleaning automation backend developed with .NET Core.
 `.NET Core` `Dapper` `C#`
 
-#### [Custom Admin](https://github.com/Onurlulardan/customadmin)
-Admin panel developed with Chakra UI.
-`React` `Chakra UI` `JavaScript`
 
 ### 📫 Contact
 
