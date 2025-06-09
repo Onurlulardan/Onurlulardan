@@ -2,13 +2,6 @@
 
 I edit text files for a living.
 
-### 🔧 Technologies
-
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** Node.js, .NET Core, C#
-- **UI Frameworks:** Ant Design, Chakra UI
-- **Database:** Prisma, SQL
-
 ### 📦 Projects
 
 #### [NextJS Template](https://github.com/Onurlulardan/nextjstemplate)
