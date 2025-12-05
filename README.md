@@ -9,8 +9,8 @@ Next.js-based template with user and role management features.
 `Next.js` `Prisma` `React` `Ant Design`
 
 #### [ForgeCRUD](https://github.com/Onurlulardan/forgecrudio)
-Platform that generates APIs and admin panels from database diagrams.
-`React Flow` `Next.js` `Prisma`
+No-Code Application Platform.
+`React Flow` `React.js` `GO Lang` `Microservice` `RabbitMQ` `Redis`
 
 #### [CleanFlow](https://github.com/Onurlulardan/cleanFlow)
 Cleaning automation backend developed with .NET Core.
