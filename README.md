@@ -8,7 +8,7 @@ I edit text files for a living.
 Next.js-based template with user and role management features.
 `Next.js` `Prisma` `React` `Ant Design`
 
-#### [ForgeCRUD](https://github.com/Onurlulardan/forgecrudio)
+#### [ForgeCRUD](https://forgecrud.io/)
 No-Code Application Platform.
 `React Flow` `React.js` `GO Lang` `Microservice` `RabbitMQ` `Redis`
 
