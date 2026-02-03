@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2A85FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Altunta%C5%9F;Full+Stack+Architect;Go+%26+React+Developer;Low-Code+Platform+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2A85FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Altunta%C5%9F;Full+Stack+Architect;Go+%26+React+Developer;Low-Code+Platform+Builder
+" alt="Typing SVG" /></a>
 
 <br/>
+
 
 <!-- Tagline -->
 <img src="https://img.shields.io/badge/Architecting_Scalable_Solutions_with_Go_&_React-171717?style=for-the-badge" alt="Tagline"/>
@@ -76,14 +78,6 @@ const onur = {
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/forgeCRUD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=forgecrudio&theme=dark&bg_color=0d1117&border_color=2a85ff&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="ForgeCRUD" />
-</a>
-
-</div>
-
 ### ForgeCRUD - Low-Code Operations Platform
 
 > Transform your operational workflows into powerful digital applications - without writing a single line of code.
@@ -100,39 +94,16 @@ const onur = {
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/Onurlulardan/nextjstemplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=nextjstemplate&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="NextJS Template" />
-</a>
-<a href="https://github.com/Onurlulardan/react-lookup-select">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=react-lookup-select&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="React Lookup Select" />
-</a>
-
-</div>
-
-<br/>
-
-## GitHub Stats
+### Other Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Onurlulardan&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onurlulardan&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Onurlulardan&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=2a85ff&fire=2a85ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Onurlulardan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**nextjstemplate**](https://github.com/Onurlulardan/nextjstemplate) | Next.js template with user & role management | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**react-lookup-select**](https://github.com/Onurlulardan/react-lookup-select) | Customizable React lookup/select component | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**go-microservice-sample**](https://github.com/Onurlulardan/go-microservice-sample) | Production-ready Go microservices stack | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [**cleanFlow**](https://github.com/Onurlulardan/cleanFlow) | Cleaning automation backend with .NET Core | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 
 </div>
 
