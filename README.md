@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2A85FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Onur+Altunta%C5%9F;Full+Stack+Architect;Go+%26+React+Developer;Low-Code+Platform+Builder
-" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2A85FF&multiline=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Onur+Altunta%C5%9F;Full+Stack+Architect)](https://git.io/typing-svg)
 
 <br/>
 
@@ -78,6 +77,14 @@ const onur = {
 
 ## Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/forgeCRUD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=forgecrudio&theme=dark&bg_color=0d1117&border_color=2a85ff&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="ForgeCRUD" />
+</a>
+
+</div>
+
 ### ForgeCRUD - Low-Code Operations Platform
 
 > Transform your operational workflows into powerful digital applications - without writing a single line of code.
@@ -94,16 +101,14 @@ const onur = {
 
 ---
 
-### Other Projects
-
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**nextjstemplate**](https://github.com/Onurlulardan/nextjstemplate) | Next.js template with user & role management | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**react-lookup-select**](https://github.com/Onurlulardan/react-lookup-select) | Customizable React lookup/select component | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**go-microservice-sample**](https://github.com/Onurlulardan/go-microservice-sample) | Production-ready Go microservices stack | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**cleanFlow**](https://github.com/Onurlulardan/cleanFlow) | Cleaning automation backend with .NET Core | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+<a href="https://github.com/Onurlulardan/nextjstemplate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=nextjstemplate&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="NextJS Template" />
+</a>
+<a href="https://github.com/Onurlulardan/react-lookup-select">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onurlulardan&repo=react-lookup-select&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=2a85ff&title_color=ffffff&text_color=c9d1d9" alt="React Lookup Select" />
+</a>
 
 </div>
 
