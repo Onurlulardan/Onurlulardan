@@ -32,78 +32,46 @@ I turn complex operations into working software. I build products end to end —
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### [ForgeCRUD](https://forgecrud.io)
-
-**On-premise operations platform**
-
-A low-code/no-code platform for modelling business processes through dynamic forms, workflow engines, API and dashboard builders, access control, and configurable modules for CRM, inventory, purchasing, finance, HR, and more.
-
-I built the product end to end, including application architecture, platform capabilities, deployment, licensing, and update flows.
-
-`Product engineering` `Go` `React` `PostgreSQL`
-
+      <h3><a href="https://forgecrud.io">ForgeCRUD</a></h3>
+      <p><strong>On-premise operations platform</strong></p>
+      <p>A low-code/no-code platform for modelling business processes through dynamic forms, workflow engines, API and dashboard builders, access control, and configurable modules for CRM, inventory, purchasing, finance, HR, and more.</p>
+      <p>I built the product end to end, including application architecture, platform capabilities, deployment, licensing, and update flows.</p>
+      <p><code>Product engineering</code> <code>Go</code> <code>React</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-
-### [KerfFlow](https://altuntasonur.com/products/kerfflow/)
-
-**Manufacturing & cutting optimization**
-
-Connects 1D/2D cutting optimization to physical inventory, reusable remnants/offcuts, cutting work orders, and job-level costing. The model accounts for real stock, kerf, and executable cutting sequences—not only theoretical waste.
-
-`Optimization` `Inventory` `Manufacturing`
-
+      <h3><a href="https://altuntasonur.com/products/kerfflow/">KerfFlow</a></h3>
+      <p><strong>Manufacturing &amp; cutting optimization</strong></p>
+      <p>Connects 1D/2D cutting optimization to physical inventory, reusable remnants/offcuts, cutting work orders, and job-level costing. The model accounts for real stock, kerf, and executable cutting sequences—not only theoretical waste.</p>
+      <p><code>Optimization</code> <code>Inventory</code> <code>Manufacturing</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### [ForgeScraper](https://altuntasonur.com/products/forgescraper/)
-
-**B2B lead research desktop app**
-
-Automates Google Maps business research by city, district, and sector or keyword. Includes business contact fields, scan history, filtering, local SQLite storage, daily logs, and CSV/Excel export.
-
-Built with Go, Wails, browser automation, and SQLite; designed for cross-platform packaging.
-
-`Go` `Wails` `Desktop`
-
+      <h3><a href="https://altuntasonur.com/products/forgescraper/">ForgeScraper</a></h3>
+      <p><strong>B2B lead research desktop app</strong></p>
+      <p>Automates Google Maps business research by city, district, and sector or keyword. Includes business contact fields, scan history, filtering, local SQLite storage, daily logs, and CSV/Excel export.</p>
+      <p>Built with Go, Wails, browser automation, and SQLite; designed for cross-platform packaging.</p>
+      <p><code>Go</code> <code>Wails</code> <code>Desktop</code></p>
     </td>
     <td width="50%" valign="top">
-
-### ForgeGuard
-
-**Deployment & release infrastructure**
-
-Private tooling for on-premise delivery: license validation, release management, container image mirroring, updater automation, and installer bundle generation.
-
-`Licensing` `Deployment` `Automation`
-
+      <h3>ForgeGuard</h3>
+      <p><strong>Deployment &amp; release infrastructure</strong></p>
+      <p>Private tooling for on-premise delivery: license validation, release management, container image mirroring, updater automation, and installer bundle generation.</p>
+      <p><code>Licensing</code> <code>Deployment</code> <code>Automation</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### [ForgeStart](https://github.com/Onurlulardan/ForgeStart)
-
-**Open-source full-stack starter**
-
-A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organizations, invitations, API keys, audit logs, uploads, Docker, and testing infrastructure.
-
-`Open source` `Next.js` `PostgreSQL`
-
+      <h3><a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a></h3>
+      <p><strong>Open-source full-stack starter</strong></p>
+      <p>A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organizations, invitations, API keys, audit logs, uploads, Docker, and testing infrastructure.</p>
+      <p><code>Open source</code> <code>Next.js</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-
-### [react-lookup-select](https://github.com/Onurlulardan/react-lookup-select)
-
-**Reusable React component**
-
-A headless, customizable lookup/select component with grid-based selection inside a modal and support for single and multiple selection.
-
-`Open source` `React` `TypeScript`
-
+      <h3><a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a></h3>
+      <p><strong>Reusable React component</strong></p>
+      <p>A headless, customizable lookup/select component with grid-based selection inside a modal and support for single and multiple selection.</p>
+      <p><code>Open source</code> <code>React</code> <code>TypeScript</code></p>
     </td>
   </tr>
 </table>
