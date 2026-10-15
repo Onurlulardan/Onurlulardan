@@ -8,73 +8,121 @@
   <a href="https://github.com/Onurlulardan">GitHub</a>
 </p>
 
-I turn business problems into working software. I build products end to end — modeling the domain, designing the data layer, building APIs and interfaces, integrating systems, and shipping production deployments. My focus is **operational software, configurable business workflows, and tools that make complex processes easier to run**.
+I turn complex operations into working software. I build products end to end — from business logic and data models to user interfaces, APIs, integrations, and deployment. My work focuses on **business systems, manufacturing optimization, and B2B data tools**.
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <strong>PRODUCT ENGINEERING</strong><br /><br />
-      Built <a href="https://forgecrud.io">ForgeCRUD</a> end to end: a configurable, on-premise operations platform with dynamic forms, workflows, dashboards, access control, and business modules.
+      Built <a href="https://forgecrud.io">ForgeCRUD</a>, an on-premise operations platform with configurable forms, workflows, dashboards, access control, and business modules.
     </td>
     <td width="33%" valign="top">
-      <strong>PLATFORM & DEPLOYMENT</strong><br /><br />
-      Designed reusable platform engines and the delivery tooling around them — licensing, release packaging, image mirroring, and automated updates for on-premise installations.
+      <strong>MANUFACTURING SOFTWARE</strong><br /><br />
+      Developing <a href="https://altuntasonur.com/products/kerfflow/">KerfFlow</a> to connect cutting optimization with physical stock, reusable remnants, work orders, and costing.
     </td>
     <td width="33%" valign="top">
-      <strong>OPEN SOURCE</strong><br /><br />
-      Built and published <a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a>, a full-stack application starter, and <a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a>, a reusable React component.
+      <strong>B2B DATA TOOLS</strong><br /><br />
+      Built <a href="https://altuntasonur.com/products/forgescraper/">ForgeScraper</a>, a Go desktop app for region- and sector-based business research with searchable history and CSV/Excel export.
     </td>
   </tr>
 </table>
 
-## Selected Work
+## Products I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://forgecrud.io">ForgeCRUD</a></h3>
-      <strong>On-premise operations platform</strong><br /><br />
-      I designed and built the platform across dynamic form and workflow engines, API and dashboard builders, RBAC/ABAC permissions, tasks, calendar, AI assistance, and configurable modules for CRM, inventory, purchasing, finance, HR, and other operational processes.<br /><br />
-      I also built the Docker-based delivery, licensing, and update flows needed to operate the product on customer infrastructure.<br /><br />
-      <code>Product ownership</code> <code>Full stack</code> <code>On-premise</code>
+
+### [ForgeCRUD](https://forgecrud.io)
+
+**On-premise operations platform**
+
+A low-code/no-code platform for modelling business processes through dynamic forms, workflow engines, API and dashboard builders, access control, and configurable modules for CRM, inventory, purchasing, finance, HR, and more.
+
+I built the product end to end, including application architecture, platform capabilities, deployment, licensing, and update flows.
+
+`Product engineering` `Go` `React` `PostgreSQL`
+
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a></h3>
-      <strong>Open-source full-stack starter</strong><br /><br />
-      A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organization management, invitations, API keys, audit logs, uploads, Docker, and testing infrastructure.<br /><br />
-      <code>Open source</code> <code>Next.js</code>
+
+### [KerfFlow](https://altuntasonur.com/products/kerfflow/)
+
+**Manufacturing & cutting optimization**
+
+Connects 1D/2D cutting optimization to physical inventory, reusable remnants/offcuts, cutting work orders, and job-level costing. The model accounts for real stock, kerf, and executable cutting sequences—not only theoretical waste.
+
+`Optimization` `Inventory` `Manufacturing`
+
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a></h3>
-      <strong>Reusable React component</strong><br /><br />
-      A headless, customizable lookup/select component with grid-based single and multiple selection, designed to be integrated into different React applications.<br /><br />
-      <code>Open source</code> <code>React</code>
+
+### [ForgeScraper](https://altuntasonur.com/products/forgescraper/)
+
+**B2B lead research desktop app**
+
+Automates Google Maps business research by city, district, and sector or keyword. Includes business contact fields, scan history, filtering, local SQLite storage, daily logs, and CSV/Excel export.
+
+Built with Go, Wails, browser automation, and SQLite; designed for cross-platform packaging.
+
+`Go` `Wails` `Desktop`
+
     </td>
     <td width="50%" valign="top">
-      <h3>ForgeGuard</h3>
-      <strong>Private deployment tooling</strong><br /><br />
-      Tooling I built around on-premise delivery: license validation, release management, container image mirroring, updater automation, and installer bundle generation.<br /><br />
-      <code>Deployment</code> <code>Platform engineering</code>
+
+### ForgeGuard
+
+**Deployment & release infrastructure**
+
+Private tooling for on-premise delivery: license validation, release management, container image mirroring, updater automation, and installer bundle generation.
+
+`Licensing` `Deployment` `Automation`
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [ForgeStart](https://github.com/Onurlulardan/ForgeStart)
+
+**Open-source full-stack starter**
+
+A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organizations, invitations, API keys, audit logs, uploads, Docker, and testing infrastructure.
+
+`Open source` `Next.js` `PostgreSQL`
+
+    </td>
+    <td width="50%" valign="top">
+
+### [react-lookup-select](https://github.com/Onurlulardan/react-lookup-select)
+
+**Reusable React component**
+
+A headless, customizable lookup/select component with grid-based selection inside a modal and support for single and multiple selection.
+
+`Open source` `React` `TypeScript`
+
     </td>
   </tr>
 </table>
 
-## How I Work
+## How I Engineer
 
-- **Own the whole problem:** from business requirements and domain modeling to UI, APIs, data, integrations, and deployment.
-- **Build for real workflows:** design forms, permissions, and processes around how teams actually operate.
-- **Think beyond the code:** treat installation, updates, reliability, and maintainability as part of the product.
+- **Own the whole problem:** from business requirements and domain modelling to UI, APIs, data, integrations, and deployment.
+- **Model real operations:** connect software logic with actual workflows, physical stock, permissions, and business rules.
+- **Build for production:** treat installation, updates, reliability, maintainability, and performance as part of the product.
 
 ## Core Toolkit
 
-`Go` `TypeScript` `JavaScript` `React` `Next.js` `.NET Core` `PostgreSQL` `SQL Server` `Docker` `Redis` `RabbitMQ`
+`Go` `TypeScript` `JavaScript` `React` `Next.js` `.NET Core` `PostgreSQL` `SQL Server` `SQLite` `Docker` `Redis` `RabbitMQ`
 
 ---
 
 <p align="center">
   <strong>From business problem to production software.</strong><br />
+  <a href="https://altuntasonur.com/products/">Explore my products</a> ·
   <a href="https://altuntasonur.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/onur-altuntas99">LinkedIn</a>
 </p>
