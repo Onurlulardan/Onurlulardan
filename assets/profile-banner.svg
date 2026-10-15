@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Onur Altuntaş — Full Stack Engineer and Product Builder</title>
+  <desc id="desc">A dark, minimal engineering banner describing product engineering, operational software, and open source.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111719"/>
+      <stop offset="1" stop-color="#202A29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B2F5C8"/>
+      <stop offset="1" stop-color="#73D7BA"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#C9E7D9" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#111719" stop-opacity="0"/>
+      <stop offset="1" stop-color="#111719" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="0" y="0" width="10" height="300" rx="5" fill="url(#accent)"/>
+  <g opacity="0.78" fill="none" stroke="#91D9B7" stroke-width="1.5">
+    <path d="M810 66 H910 V120 H1002 V76 H1110" stroke-opacity="0.42"/>
+    <path d="M842 230 H930 V185 H1030 V225 H1136" stroke-opacity="0.35"/>
+    <path d="M940 120 V185" stroke-opacity="0.3"/>
+    <path d="M1002 76 V38 H1080" stroke-opacity="0.3"/>
+  </g>
+  <g fill="#B2F5C8">
+    <circle cx="810" cy="66" r="4"/><circle cx="910" cy="120" r="4"/><circle cx="1002" cy="120" r="4"/>
+    <circle cx="1110" cy="76" r="4"/><circle cx="842" cy="230" r="4"/><circle cx="930" cy="185" r="4"/>
+    <circle cx="1030" cy="225" r="4"/><circle cx="1136" cy="225" r="4"/><circle cx="1080" cy="38" r="4"/>
+  </g>
+  <g fill="none" stroke="#B2F5C8" stroke-opacity="0.16">
+    <rect x="875" y="91" width="84" height="56" rx="9"/>
+    <rect x="984" y="151" width="91" height="57" rx="9"/>
+    <rect x="1054" y="49" width="98" height="55" rx="9"/>
+  </g>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="58" font-size="14" letter-spacing="3.2" font-weight="600" fill="#B2F5C8">FULL STACK ENGINEER  /  PRODUCT BUILDER</text>
+    <text x="62" y="123" font-size="49" font-weight="750" letter-spacing="-1.4" fill="#F5F7F6">ONUR ALTUNTAŞ</text>
+    <text x="64" y="187" font-size="23" font-weight="550" fill="#E0E8E4">I turn complex business operations</text>
+    <text x="64" y="216" font-size="23" font-weight="550" fill="#E0E8E4">into production software.</text>
+    <text x="64" y="264" font-size="13" letter-spacing="1.55" font-weight="500" fill="#9FB5AC">PRODUCT ENGINEERING  ·  OPERATIONAL SOFTWARE  ·  OPEN SOURCE</text>
+  </g>
+</svg>
