@@ -8,21 +8,21 @@
   <a href="https://github.com/Onurlulardan">GitHub</a>
 </p>
 
-I build software end to end — from domain modeling and data architecture to APIs, user interfaces, integrations, deployment, and production reliability. My focus is **operational software that solves real business problems**.
+I turn business problems into working software. I build products end to end — modeling the domain, designing the data layer, building APIs and interfaces, integrating systems, and shipping production deployments. My focus is **operational software, configurable business workflows, and tools that make complex processes easier to run**.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>PRODUCT BUILDER</strong><br />
-      Built <a href="https://forgecrud.io">ForgeCRUD</a>, an on-premise low-code operations platform for configurable workflows and business processes.
+      <strong>PRODUCT ENGINEERING</strong><br /><br />
+      Built <a href="https://forgecrud.io">ForgeCRUD</a> end to end: a configurable, on-premise operations platform with dynamic forms, workflows, dashboards, access control, and business modules.
     </td>
     <td width="33%" valign="top">
-      <strong>ENTERPRISE SOFTWARE</strong><br />
-      Worked on enterprise business-process applications at Bimser and full-stack applications at DATARUL.
+      <strong>PLATFORM & DEPLOYMENT</strong><br /><br />
+      Designed reusable platform engines and the delivery tooling around them — licensing, release packaging, image mirroring, and automated updates for on-premise installations.
     </td>
     <td width="33%" valign="top">
-      <strong>OPEN SOURCE</strong><br />
-      Built <a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a> and <a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a>.
+      <strong>OPEN SOURCE</strong><br /><br />
+      Built and published <a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a>, a full-stack application starter, and <a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a>, a reusable React component.
     </td>
   </tr>
 </table>
@@ -34,13 +34,14 @@ I build software end to end — from domain modeling and data architecture to AP
     <td width="50%" valign="top">
       <h3><a href="https://forgecrud.io">ForgeCRUD</a></h3>
       <strong>On-premise operations platform</strong><br /><br />
-      Dynamic forms, workflows, dashboards, access control, and configurable modules for CRM, inventory, purchasing, finance, HR, and other operational processes.<br /><br />
-      <code>Product ownership</code> <code>On-premise</code>
+      I designed and built the platform across dynamic form and workflow engines, API and dashboard builders, RBAC/ABAC permissions, tasks, calendar, AI assistance, and configurable modules for CRM, inventory, purchasing, finance, HR, and other operational processes.<br /><br />
+      I also built the Docker-based delivery, licensing, and update flows needed to operate the product on customer infrastructure.<br /><br />
+      <code>Product ownership</code> <code>Full stack</code> <code>On-premise</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Onurlulardan/ForgeStart">ForgeStart</a></h3>
       <strong>Open-source full-stack starter</strong><br /><br />
-      A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organization management, audit logs, Docker, and testing infrastructure.<br /><br />
+      A Next.js foundation with Auth.js, Drizzle, PostgreSQL, RBAC, organization management, invitations, API keys, audit logs, uploads, Docker, and testing infrastructure.<br /><br />
       <code>Open source</code> <code>Next.js</code>
     </td>
   </tr>
@@ -48,23 +49,23 @@ I build software end to end — from domain modeling and data architecture to AP
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Onurlulardan/react-lookup-select">react-lookup-select</a></h3>
       <strong>Reusable React component</strong><br /><br />
-      A headless, customizable lookup/select component with grid-based single and multiple selection.<br /><br />
+      A headless, customizable lookup/select component with grid-based single and multiple selection, designed to be integrated into different React applications.<br /><br />
       <code>Open source</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
       <h3>ForgeGuard</h3>
       <strong>Private deployment tooling</strong><br /><br />
-      Tooling for licensing, release management, image mirroring, and update automation for on-premise software delivery.<br /><br />
+      Tooling I built around on-premise delivery: license validation, release management, container image mirroring, updater automation, and installer bundle generation.<br /><br />
       <code>Deployment</code> <code>Platform engineering</code>
     </td>
   </tr>
 </table>
 
-## Engineering Focus
+## How I Work
 
-- **End-to-end ownership:** I work across data models, APIs, user interfaces, integrations, and deployment.
-- **Business-driven design:** Workflows, permissions, and domain models should reflect how teams actually operate.
-- **Production-minded engineering:** Reliability, maintainability, and performance are part of the product.
+- **Own the whole problem:** from business requirements and domain modeling to UI, APIs, data, integrations, and deployment.
+- **Build for real workflows:** design forms, permissions, and processes around how teams actually operate.
+- **Think beyond the code:** treat installation, updates, reliability, and maintainability as part of the product.
 
 ## Core Toolkit
 
@@ -73,8 +74,7 @@ I build software end to end — from domain modeling and data architecture to AP
 ---
 
 <p align="center">
-  <strong>Business problems → working software → production.</strong><br />
+  <strong>From business problem to production software.</strong><br />
   <a href="https://altuntasonur.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/onur-altuntas99">LinkedIn</a>
 </p>
-
